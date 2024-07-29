@@ -13,20 +13,30 @@
 .socials {
     border-top: 1px solid #e9dfdf;
     border-bottom: 1px solid #e9dfdf;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.socials ul {
+.socials .media ul {
     list-style: none;
     display: flex;
     gap: 5px;
 }
-
+.socials .country ul{
+    list-style-type: none;
+    display: flex;
+}
+.socials .country ul li{
+    padding: 0px 5px;
+    cursor: pointer;
+}
 nav {
     box-shadow: 1px 1px 20px #888888;
     margin-bottom: 1px;
 }
 
-.socials ul li {
+.socials .media ul li {
     border-right: 1px solid #e9dfdf;
     padding: 2px;
     padding-left: 5px;
