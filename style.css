@@ -23,14 +23,17 @@
     display: flex;
     gap: 5px;
 }
-.socials .country ul{
+
+.socials .country ul {
     list-style-type: none;
     display: flex;
 }
-.socials .country ul li{
+
+.socials .country ul li {
     padding: 0px 5px;
     cursor: pointer;
 }
+
 nav {
     box-shadow: 1px 1px 20px #888888;
     margin-bottom: 1px;
@@ -167,8 +170,6 @@ main .os p {
     margin-right: auto;
     margin-bottom: 20px;
 }
-
-.creative {}
 
 .creative .title {
     font-size: 30px;
