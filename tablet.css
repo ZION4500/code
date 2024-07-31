@@ -37,14 +37,3 @@
 main .os p {
     width: fit-content;
 }
-.features{
-    flex-direction: column;
-}
-.box{
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-}
-.boxed-container{
-    flex-wrap: wrap;
-}
