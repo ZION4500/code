@@ -48,3 +48,9 @@ main .os p {
 .boxed-container{
     flex-wrap: wrap;
 }
+.media{
+    display: none;
+}
+.country{
+    display: hidden;
+}
