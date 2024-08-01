@@ -28,29 +28,37 @@
         margin-right: auto;
     }
 }
-.socials .media{
+
+.socials .media {
     gap: 0px;
 }
+
 .section-spacing {
     margin: 0px 0px;
-} 
+}
+
 main .os p {
     width: fit-content;
 }
-.features{
+
+.features {
     flex-direction: column;
 }
-.box{
+
+.box {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
-.boxed-container{
+
+.boxed-container {
     flex-wrap: wrap;
 }
-.socials .media{
+
+.socials .media {
     display: none;
 }
-.socials .country{
+
+.socials .country {
     display: hidden;
 }

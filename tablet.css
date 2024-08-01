@@ -28,12 +28,23 @@
         margin-right: auto;
     }
 }
-.socials .media{
+
+.socials .media {
     gap: 0px;
 }
+
 .section-spacing {
     margin: 0px 0px;
-} 
+}
+
 main .os p {
     width: fit-content;
+}
+
+.socials .media {
+    display: none;
+}
+
+.socials .country {
+    display: hidden;
 }
