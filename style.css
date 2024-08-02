@@ -274,3 +274,6 @@ footer .title {
     color: orangered;
 }
 
+.menu{
+    display: none !important;
+}

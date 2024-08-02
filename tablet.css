@@ -48,3 +48,10 @@ main .os p {
 .socials .country{
     display: hidden !important;
 }
+.navbar{
+    display: none !important;
+}
+.menu{
+    display: block !important;
+    margin-right: 10px !important;
+}
