@@ -42,9 +42,9 @@ main .os p {
 }
 
 .socials .media {
-    display: none;
+    display: none !important;
 }
 
 .socials .country{
-    display: hidden;
+    display: hidden !important;
 }
